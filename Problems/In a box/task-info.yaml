@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Box {
+
+        double height;
+        double width;
+        double length;
+
+        // write a method here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2951
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2951">JetBrains
+    Academy</a></html>
+  time: Thu, 22 Oct 2020 07:39:03 UTC
+record: -1
